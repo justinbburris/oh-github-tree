@@ -1,37 +1,77 @@
-O Christmas Tree! O Christmas Tree!
-Thy leaves are so unchanging;
-O Christmas Tree! O Christmas Tree!
-Thy leaves are so unchanging;
-Not only green when summer's here,
-But also when 'tis cold and drear.
-O Christmas Tree! O Christmas Tree!
-Thy leaves are so unchanging!
+Here is my adaption of O Christmas Tree! Feel free to copy/modify/fork/branch/downlaod/sing to your liking.
 
- 
+The license can be found in license.md
 
-O Christmas Tree! O Christmas Tree!
+Without further ado
+
+# O Github Tree
+
+O Github Tree! O Github Tree!
+
+Thy nodes are so unchanging;
+
+O Github Tree! O Github Tree!
+
+Thy nodes are so unchanging;
+
+Not only public when Stalmans near,
+
+But also when the trolls will sneer.
+
+O Github Tree! O Github Tree!
+
+Thy nodes are so unchanging!
+
+- - -
+
+O Github Tree! O Github Tree!
+
 Much pleasure thou can'st give me;
-O Christmas Tree! O Christmas Tree!
+
+O Github Tree! O Github Tree!
+
 Much pleasure thou can'st give me;
-How often has the Christmas tree
+
+How often has the Github tree
+
 Afforded me the greatest glee!
-O Christmas Tree! O Christmas Tree!
+
+O Github Tree! O Github Tree!
+
 Much pleasure thou can'st give me.
 
-O Christmas Tree! O Christmas Tree!
-Thy candles shine so brightly!
-O Christmas Tree! O Christmas Tree!
-Thy candles shine so brightly!
-From base to summit, gay and bright,
-There's only splendor for the sight.
-O Christmas Tree! O Christmas Tree!
-Thy candles shine so brightly!
+- - -
 
-O Christmas Tree! O Christmas Tree!
-How richly God has decked thee!
-O Christmas Tree! O Christmas Tree!
-How richly God has decked thee!
-Thou bidst us true and faithful be,
-And trust in God unchangingly.
-O Christmas Tree! O Christmas Tree!
-How richly God has decked thee! !
+O Github Tree! O Github Tree!
+
+Thy repos grow so quickly!
+
+O Github Tree! O Github Tree!
+
+Thy repos grow so quickly!
+
+From pull request, to merge conflict,
+
+Resolving each one with a click.
+
+O Github Tree! O Github Tree!
+
+Thy repos grow so quickly!
+
+- - -
+
+O Github Tree! O Github Tree!
+
+How lovely are your branches!
+
+O Github Tree! O Github Tree!
+
+How lovely are your branches!
+
+Thou bidst open and transparent be,
+
+And trust in freedom infinitely.
+
+O Github Tree! O Github Tree!
+
+How lovely are your branches!
